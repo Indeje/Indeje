@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Indeje
-- 👀 I’m interested in back-end web development, mobile app development and systems security and management.
+- 👀 I’m interested in back-end development, mobile app development and systems security and management.
 - 🌱 I’m currently learning computer science & IT including courses in C, Python, JavaScript, computer architecture, networking, database administration and operating systems. 
 - 💞️ I’m looking to collaborate on Python-Django website development.
 - 📫 How to reach me: Send me an email at n_wanyama@yahoo.com
